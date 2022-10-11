@@ -1,3 +1,0 @@
-spec/integration/**
-lib/**/*.d.ts
-index.d.ts
